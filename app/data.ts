@@ -29,13 +29,13 @@ type SocialLink = {
 
 export const EMAIL = ''
 
-export const WEB_TITLE = 'Name - Personal Website'
+export const WEB_TITLE = 'my-portfolio'
 export const WEB_DESCRIPTION =
   'A personal website showcasing my work and projects.'
-export const FOOTER_COPYRIGHT = '© 2025 Nguyen Van B.'
+export const FOOTER_COPYRIGHT = '© 2025 pnt.'
 export const FOOTER_LINK = 'https://github.com/username/'
 
-export const NAME = 'Nguyen Van B'
+export const NAME = 'Nguyen t'
 export const JOB_TITLE = 'NASA Frontend Intern'
 export const DESCRIPTION =
   'I am a passionate designer and developer with a focus on creating beautiful and functional user interfaces. I have experience in design engineering, front-end development, and product design. I love to explore the intersection of design and technology, and I am always looking for new challenges to tackle.'
@@ -62,28 +62,20 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Reglazed Studio',
+    company: 'poorism',
     title: 'CEO',
     start: '2024',
     end: 'Present',
-    link: 'https://ibelick.com',
+    link: 'https://poorism.com',
     id: 'work1',
   },
   {
-    company: 'Freelance',
-    title: 'Design Engineer',
+    company: 'Sleepize',
+    title: 'Fulltime sleepping engineer',
     start: '2022',
-    end: '2024',
-    link: 'https://ibelick.com',
+    end: 'now',
+    link: 'https://sleepinize.com',
     id: 'work2',
-  },
-  {
-    company: 'Freelance',
-    title: 'Front-end Developer',
-    start: '2017',
-    end: 'Present',
-    link: 'https://ibelick.com',
-    id: 'work3',
   },
 ]
 
